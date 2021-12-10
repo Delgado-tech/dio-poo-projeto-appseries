@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\AppSeries\\AppSeries.csproj": {}
+    "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\Projeto\\AppSeries\\AppSeries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\AppSeries\\AppSeries.csproj": {
+    "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\Projeto\\AppSeries\\AppSeries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\AppSeries\\AppSeries.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\Projeto\\AppSeries\\AppSeries.csproj",
         "projectName": "AppSeries",
-        "projectPath": "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\AppSeries\\AppSeries.csproj",
+        "projectPath": "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\Projeto\\AppSeries\\AppSeries.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\AppSeries\\obj\\",
+        "outputPath": "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\Projeto\\AppSeries\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
