@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIOSeries.Console/1.0.0": {
+        "dependencies": {
+          "AppSeries": "1.0.0"
+        },
+        "runtime": {
+          "DIOSeries.Console.dll": {}
+        }
+      },
+      "AppSeries/1.0.0": {
+        "runtime": {
+          "AppSeries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIOSeries.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppSeries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

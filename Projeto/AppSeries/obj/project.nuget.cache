@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Qjh2ILzHjwKACaeIQJ2QP/4P28To1oG09z0BJSIwyKKs+rnOjSgJxgs3lzGgCsHZpOLIt/hKhjh83WOnfndg3Q==",
+  "dgSpecHash": "HgQdwfmp/i5H+b85gY8hgwVkLsy+llPjW1MtFv/oEnXY5gQkFHeHJWOBUQgDRSvAMHUpQ708GWOR6vUaX8bOEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\T-Gamer\\#CriandoDotNET\\ProjetoAPP\\Projeto\\AppSeries\\AppSeries.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

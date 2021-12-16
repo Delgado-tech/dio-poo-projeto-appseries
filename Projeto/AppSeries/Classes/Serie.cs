@@ -39,6 +39,18 @@ namespace AppSeries
             return this.Id;
         }
 
+        public Genero retornaGenero() { 
+            return this.Genero;
+        }
+
+        public int retornaAno() { 
+            return this.Ano;
+        }
+
+        public string retornaDescricao() {
+            return this.Descricao;
+        }
+
         public bool foiExcluido(){
             return this.Excluido;
         }

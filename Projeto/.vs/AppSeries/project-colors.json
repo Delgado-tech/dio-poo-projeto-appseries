@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "250bf792-46ff-4839-928a-603c59e92886": {
+      "ProjectGuid": "250bf792-46ff-4839-928a-603c59e92886",
+      "DisplayName": "DioSeries.Web",
+      "ColorIndex": 0
+    },
+    "534a60df-f7d2-4f7b-9d56-1da3894128e9": {
+      "ProjectGuid": "534a60df-f7d2-4f7b-9d56-1da3894128e9",
+      "DisplayName": "DIOSeries.Console",
+      "ColorIndex": 1
+    },
+    "b98b29bc-3a61-492a-b79b-e700e8e4abdb": {
+      "ProjectGuid": "b98b29bc-3a61-492a-b79b-e700e8e4abdb",
+      "DisplayName": "AppSeries",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

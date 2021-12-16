@@ -1,7 +1,4 @@
-C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\bin\Debug\net5.0\AppSeries.exe
 C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\bin\Debug\net5.0\AppSeries.deps.json
-C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\bin\Debug\net5.0\AppSeries.runtimeconfig.json
-C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\bin\Debug\net5.0\AppSeries.runtimeconfig.dev.json
 C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\bin\Debug\net5.0\AppSeries.dll
 C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\bin\Debug\net5.0\ref\AppSeries.dll
 C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\bin\Debug\net5.0\AppSeries.pdb
@@ -13,4 +10,3 @@ C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\obj\Debug\net5.0\Ap
 C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\obj\Debug\net5.0\AppSeries.dll
 C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\obj\Debug\net5.0\ref\AppSeries.dll
 C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\obj\Debug\net5.0\AppSeries.pdb
-C:\Users\T-Gamer\#CriandoDotNET\ProjetoAPP\Projeto\AppSeries\obj\Debug\net5.0\AppSeries.genruntimeconfig.cache

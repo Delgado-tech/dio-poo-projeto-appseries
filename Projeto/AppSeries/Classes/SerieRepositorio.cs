@@ -5,13 +5,8 @@ namespace AppSeries
 {
     public class SerieRepositorio : IRepositorio<Serie>
     {
-        private static SerieRepositorio instance;
         private List<Serie> listaSerie = new List<Serie>();
-        private SerieRepositorio(){}
-        public static SerieRepositorio GetInstance(){
-            if(instance == null) instance = new SerieRepositorio();
-            return instance;
-        }
+
         public void Atualiza(int id, Serie objeto)
         {
             listaSerie[id] = objeto;

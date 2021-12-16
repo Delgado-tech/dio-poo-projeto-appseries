@@ -2,6 +2,6 @@ namespace AppSeries
 {
     public abstract class EntidadeBase
     {
-        protected int Id {get; set;}      
+        public int Id {get; set;}      
     }
 }
